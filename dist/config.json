@@ -1,0 +1,1 @@
+{"server_addr":"0.0.0.0:8686","image_base_path":"/app/static/images","avif_support":true,"APIKey":"lazycat","max_upload_count":10,"image_quality":80,"worker_threads":4}
